@@ -1,0 +1,89 @@
+@import url("https://use.typekit.net/phk7awc.css");
+@import url('https://fonts.googleapis.com/css2?family=Dai+Banna+SIL:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url(https://db.onlinewebfonts.com/c/d3a0199dcafa52672b5461066bbb3e59?family=Cash+Market+Light+Rounded);
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@100..900&display=swap');
+
+*{
+  font-family:"Dai Banna SIL", serif;
+  text-align: center;
+  line-height: 18px;
+  background: #6d2366;
+  font-size:16px;
+}
+
+.titulo{
+  font-family:"battery-park", serif;
+  font-size: 3.12rem;
+  line-height: 10px;
+  letter-spacing: 0.1em;
+  color: #ff00cc;
+  font-weight: 600;
+}
+
+.titulo2{
+  font-family:"Shadows into Light", monospace;
+  font-size:1rem;
+  word-spacing: 0.1em;
+  color: #ff00cc;
+}
+
+.subtitulos{
+  font-family:"Shadows into Light", monospace;
+  color: #FF96C5;
+  font-size: 1.5rem;
+  font-weight: 200;
+}
+
+.coro{
+  color: #F2F0EB;
+}
+
+.estrofas{
+  color: #F2F0EB;
+}
+
+s{
+  text-decoration-line: line-through;
+  text-decoration-color: black;
+  text-decoration-thickness: 8px;
+}
+
+.Cashapp{
+  font-family: "Cash Market Light Rounded", serif;
+  color: #028A0F;
+}
+
+.SWAT{
+  font-family: "Big Shoulders Stencil Text", sans-serif;
+  color: #F2F0EB;
+  text-transform: uppercase;
+}
+
+a:active{
+  color: #2D572C;
+}
+
+a:hover{
+  color: #042008;
+  transition: 0.5s;
+}
+
+.negrilla{
+  font-style: bold;
+}
+
+.the-box{
+  font-style: italic;
+}
+
+.pie{
+  color: black;
+  background: hotpink;
+  text-align: left;
+}
+
+.tiempo{
+  color:#F2F0EB;
+  font-style: italic;  
+}
